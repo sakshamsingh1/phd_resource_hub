@@ -1,5 +1,5 @@
 # phd_resource_hub
-Resource for frequently visiting resources
+Frequently needed resources for paper writing
 
 ### LATEX
 1. Latex symbols: https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
