@@ -11,3 +11,7 @@ Frequently needed resources for paper writing
 1. matplotlib colours: https://matplotlib.org/stable/gallery/color/named_colors.html
 2. More colours: https://xkcd.com/color/rgb/
 3. Matplotlib markers: https://matplotlib.org/stable/api/markers_api.html
+
+### Paper writing
+1. plots_util : https://github.com/guanyingc/python_plot_utils
+2. paper templates: https://github.com/guanyingc/latex_paper_writing_tips/tree/master?tab=readme-ov-file#great-resources-shared-by-others
