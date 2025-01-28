@@ -17,3 +17,4 @@ Frequently needed resources for paper writing
 
 ### Setting up a new system
 1. Miniconda install : https://docs.anaconda.com/miniconda/install/#quick-command-line-install
+2. Create a new ssh: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
