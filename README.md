@@ -6,6 +6,9 @@ Frequently needed resources for paper writing
 2. Generate latex format text (that can be used for diagrams): https://latex.codecogs.com/legacy/eqneditor/editor.php?
 3. latex colors: https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX
 
+### POSTER / PPT
+1. Create latex equation for canva : https://editor.codecogs.com/
+
 ### MATPLOTLIB
 1. matplotlib colours: https://matplotlib.org/stable/gallery/color/named_colors.html
 2. More colours: https://xkcd.com/color/rgb/
