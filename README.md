@@ -5,6 +5,7 @@ Frequently needed resources for paper writing
 1. Latex symbols: https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
 2. Generate latex format text (that can be used for diagrams): https://latex.codecogs.com/legacy/eqneditor/editor.php?
 3. latex colors: https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX
+4. Making CV: https://shomir.net/wilhom_rosins.html?trk=feed_main-feed-card_feed-article-content
 
 ### POSTER / PPT
 1. Create latex equation for canva : https://editor.codecogs.com/
