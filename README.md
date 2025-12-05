@@ -19,6 +19,7 @@ Frequently needed resources for paper writing
 1. plots_util : https://github.com/guanyingc/python_plot_utils
 2. paper templates: https://github.com/guanyingc/latex_paper_writing_tips/tree/master?tab=readme-ov-file#great-resources-shared-by-others
 3. Diagram icons: https://www.streamlinehq.com/free
+4. Overleaf paper_debugger: https://github.com/PaperDebugger/PaperDebugger
 
 ### Setting up a new system
 1. Miniconda install : https://docs.anaconda.com/miniconda/install/#quick-command-line-install
